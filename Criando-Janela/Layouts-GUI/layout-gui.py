@@ -5,8 +5,7 @@ root = tk.Tk()
 root.title("Image Editor")
 
 #image = tk.PhotoImage(file="1942.png")
-image = tk.PhotoImage(file=r"Layouts-GUI\\1942.png")
-
+image = tk.PhotoImage(file="C:\\Users\\Jardel\\Estudos-Biblioteca-Tkinter-Python\\Criando-Janela\\Layouts-GUI\\cat.png")
 
 
 tools_frame = tk.Frame(root, width=200, height=400, bg="skyblue")
